@@ -19,11 +19,10 @@ Padding infoContainer({
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 const SizedBox(
-                  height: 700,
+                  height: 660,
                 ),
                 Row(
                   children: [
-
                     const SizedBox(
                       width: 10,
                     ),

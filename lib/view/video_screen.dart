@@ -16,9 +16,6 @@ class VideoScreen extends StatefulWidget {
       required this.comments,
       required this.likes,
       super.key});
-
-
-
   @override
   State<VideoScreen> createState() => _VideoScreenState();
 }
@@ -73,7 +70,7 @@ class _VideoScreenState extends State<VideoScreen> {
               ))
             : SizedBox(),
         SizedBox(
-          height: 560,
+          height: 480,
         ),
         infoContainer(
           context: context,

@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:mx_player/view/Splash_screen.dart';
 import 'package:mx_player/view/homeScreen.dart';
 import 'package:mx_player/view/video_screen.dart';
 
@@ -14,7 +15,8 @@ class MyApp extends StatelessWidget {
     return  MaterialApp(
       debugShowCheckedModeBanner: false,
       routes: {
-        '/':(context)=>HomeScreen(),
+        '/home':(context)=>HomeScreen(),
+        '/':(context)=>SplashScreen(),
       },
     );
   }
