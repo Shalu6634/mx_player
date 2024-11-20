@@ -1,16 +1,19 @@
 # mx_player
+# Description
+- The Video Player App is a sleek and intuitive media player designed to provide a seamless experience for playing all your favorite videos.
+- Whether you’re streaming content online or playing files from your local storage, this app ensures smooth playback and an enjoyable - viewing experience.
 
-A new Flutter project.
+## 1.User-Friendly Interface:
+- Simple, modern design with intuitive controls.
+- Easy access to playlists, playback history, and file directories.
+## 2.Customizable Features:
+- Adjust playback speed, aspect ratio, and audio settings.
+- Enable subtitles and closed captions in multiple languages.
 
-## Getting Started
+  <p>
+     <img src = "https://github.com/user-attachments/assets/dc1febaf-e0d1-47f1-aee5-6d23f8a91683" height = 25% width=25%>
+  <img src = "https://github.com/user-attachments/assets/9dc2df02-ae1d-4f0c-bef0-d0a9b8a9c04a" height = 25% width=25%>
+  <img src = "https://github.com/user-attachments/assets/274cf291-f94d-41d4-9451-78b8b3045976" height = 25% width=25%>
+ 
+</p>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
